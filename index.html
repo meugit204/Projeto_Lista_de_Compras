@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- fontwaelsome -->
+    <link rel="stylesheet" href="fontawesome-free-6.4.2-web/css/all.min.css">
+    <!-- css -->
+    <link rel="stylesheet" href="css/style.css">
+    <title>Lista de Compras</title>
+</head>
+
+<body>
+    <main>
+        <div class="fill"></div>
+        <section class="container">
+            <div class="container__title">
+                <h1>Lista de Compras</h1><i class="fa-solid fa-cart-shopping"></i>
+            </div>
+            <div class="container__lista">
+                <div class="lista" ng-app="myShoppingList" ng-controller="myCtrl">
+                    <ul>
+                        <li ng-repeat="x in products">{{x}}<span ng-click="removeItem($index)">X</span></li>
+                    </ul>
+                    <div class="clear"></div>
+                    <div class="add__lista">
+                        <input placeholder="Digite o item aqui.." ng-model="addMe">
+                        <button ng-click="addItem()">Adicionar a lista</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>2023 © Todos os direitos reservados.</p>
+    </footer>
+    <!-- script -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
