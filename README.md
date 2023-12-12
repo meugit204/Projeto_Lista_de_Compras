@@ -1,4 +1,4 @@
-# SITE - Tela de Login 👨‍💻
+# SITE - Lista de Compras 👨‍💻
 LINK DO SITE DESENVOLVIDO: https://meugit204.github.io/Projeto_Lista_de_Compras/
 
 ***DESCRIÇAO:***
