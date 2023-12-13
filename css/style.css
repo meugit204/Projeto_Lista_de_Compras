@@ -90,7 +90,6 @@ main {
     align-items: center;
     gap: 2rem;
     padding-top: 70px;
-
 }
 
 .container__lista ul li {
@@ -153,5 +152,4 @@ footer {
         color: #EFF255;
         text-align: center;
     }
-
 }
