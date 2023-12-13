@@ -10,14 +10,7 @@ Atualmente, o aplicativo permite aos usuários criar e editar listas de compras 
  .
  .
  .
- ### MELHORIAS PARA SE FAZER NO PROJETO
- - [x] PERFORMASSE
- - [x] ACESSIBILIDADE
- - [x] BOAS PRÁTICAS
- - [x] CEO
- - [x] PWA
-
-
+ 
 ### 🚀 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,git)](https://skillicons.dev)
