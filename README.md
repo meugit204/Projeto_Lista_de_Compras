@@ -8,11 +8,12 @@ O Lista de Compras é uma pagina desenvolvida utilizando HTML, CSS, e Angular, p
 
 Funcionalidades Atuais:
 Atualmente, o aplicativo permite aos usuários criar e editar listas de compras de forma dinâmica. A interface amigável possibilita a adição, remoção e modificação de itens na lista de maneira rápida e fácil.
+
+
+
 ![Texto Alternativo](https://github.com/meugit204/imagens/blob/66e4b94faaf66391b505515de6e9b15ac7aab79c/lista%20de%20compras.png)
 
- .
- .
- .
+ 
  
 ### 🚀 Skills
 
