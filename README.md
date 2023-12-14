@@ -2,6 +2,8 @@
 LINK DO SITE DESENVOLVIDO: https://meugit204.github.io/Projeto_Lista_de_Compras/
 
 ***DESCRIÇAO:***
+
+
 O Lista de Compras é uma pagina desenvolvida utilizando HTML, CSS, e Angular, projetado para facilitar a gestão de listas de compras. Atendendo às necessidades práticas do dia a dia, o aplicativo oferece uma abordagem intuitiva e personalizável para tornar a experiência de compras mais eficiente e organizada.
 
 Funcionalidades Atuais:
